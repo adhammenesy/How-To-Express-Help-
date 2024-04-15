@@ -29,7 +29,7 @@ app.listen(port,()=> console.log('express started on port: ',port))
 <hr>
 <p style='color:white;font-size:25px'># Code Preview:</p>
 <hr><br><br>
- <video width="1000" height="540" controls autoplay loop>
+ <video width="1000" height="540" controls>
   <source src="../videos/bandicam_2024-04-15_02-40-12-788(2).mp4" type="video/mp4">
   <source src="../videos/bandicam_2024-04-15_02-40-12-788(2).ogg" type="video/ogg">
 Your browser does not support the video tag.
