@@ -13,9 +13,9 @@
 <p>2- Set The Express Display Page</p>
 
 ```js
-app.get('/',(req,res)=>[
+app.get('/',(req,res)=>{
     res.redirect('LinkHere')
-])
+})
 ```
 
 <p>3- Set App Listen Port</p>
